@@ -1,4 +1,4 @@
-# 初始binlog
+# 初试binlog
 
 binlog需要开启`binlog_format=row`，建议是行模式.
 
